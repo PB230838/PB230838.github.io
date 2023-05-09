@@ -111,7 +111,6 @@ input[type="radio"]:checked{
     transform: translate3d(40%, 0, -250px);
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
-
 #s1:checked ~ #slide4,
 #s2:checked ~ #slide5,
 #s3:checked ~ #slide1,
