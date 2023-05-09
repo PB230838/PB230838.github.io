@@ -1,0 +1,32 @@
+.c-item {
+    height: 480px;
+  }
+  
+  .c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+  }
+
+  .galeria{
+    margin-top: 150px;
+  }
+
+  .galeria2{
+    margin-top: 150px;
+  }
+
+  
+  .card{
+    margin-top: 250px;
+    
+  }
+  .carousel-control-prev-icon{
+    margin-top: 350px;
+  }
+
+  .carousel-control-next-icon{
+    margin-top: 350px;
+  }
+
+
